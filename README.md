@@ -1,8 +1,8 @@
 # ✨ YuChat Issue Report | 问题反馈处 ✨
 
 <p align="center">
-  <strong>🎮 为 Minecraft Java 版服务器打造的优雅赞助插件</strong><br>
-  <em>Elegant donation plugin for Minecraft: Java Edition Servers</em>
+  <strong>🎮 为 Minecraft Java 版服务器打造的优雅聊天插件</strong><br>
+  <em>Elegant chat plugin for Minecraft: Java Edition Servers</em>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 ### 🔗 官方链接
 - 💬 **插件 QQ 交流群**：[点击加入](https://qm.qq.com/q/CihYemKufS)
-- ☕ **爱发电赞助**：[支持我们](https://ifdian.net/item/012b6c1c4a0911f18d1b52540025c377)
+- ☕ **爱发电赞助**：[支持我们](https://ifdian.net/item/5913558252bc11f1a1e15254001e7c00)
 
 ### 🧾 使用此插件的服务器信息
 > 欢迎已安装 YuChat 的服主在此登记您的服务器～
@@ -37,7 +37,7 @@ Thank you for your support and understanding – every piece of feedback helps m
 
 ### 🔗 Official Links
 - 💬 **Plugin QQ Group**: [Click to join](https://qm.qq.com/q/CihYemKufS)
-- ☕ **Sponsor via AiFaDian**: [Support us](https://ifdian.net/item/012b6c1c4a0911f18d1b52540025c377)
+- ☕ **Sponsor via AiFaDian**: [Support us](https://ifdian.net/item/5913558252bc11f1a1e15254001e7c00)
 
 ### 🧾 Server Information Using This Plugin
 > Server owners, feel free to register your server here～
