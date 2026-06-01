@@ -47,7 +47,7 @@ YuChat 基于 **Spigot 1.8 API** 设计，目标运行兼容 **Minecraft 1.8 - 1
 - 💬 **插件 QQ 交流群**：[点击加入](https://qm.qq.com/q/CihYemKufS)
 - 📚 **插件 Wiki / 使用文档**：[YuPluginHub](https://vicuna-main.github.io/YuPluginHub/)
 - 🐛 **Bug 与建议反馈**：[GitHub Issues](https://github.com/vicuna-main/YuChatIssueReport)
-- ☕ **高级版本赞助**：[爱发电支持](https://afdian.com/item/0699c320541211f1b9e952540025c377)
+- ☕ **高级版本赞助**：[爱发电支持](https://afdian.com/item/5913558252bc11f1a1e15254001e7c00)
 
 > ⚠️ 免费版本仅供体验与基础使用，不承诺提供免费定制支持。
 
@@ -118,7 +118,7 @@ Optional integrations: **PlaceholderAPI, LuckPerms, Vault, PlayerPoints**. If yo
 - 💬 **Plugin QQ Group**: [Click to join](https://qm.qq.com/q/CihYemKufS)
 - 📚 **Plugin Wiki / Documentation**: [YuPluginHub](https://vicuna-main.github.io/YuPluginHub/)
 - 🐛 **Bug Reports & Suggestions**: [GitHub Issues](https://github.com/vicuna-main/YuChatIssueReport)
-- ☕ **Sponsor Advanced Version**: [Support via AiFaDian](https://afdian.com/item/0699c320541211f1b9e952540025c377)
+- ☕ **Sponsor Advanced Version**: [Support via AiFaDian](https://afdian.com/item/5913558252bc11f1a1e15254001e7c00)
 
 > ⚠️ The free version is for basic use and testing only. Free custom support is not guaranteed.
 
